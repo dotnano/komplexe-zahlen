@@ -143,12 +143,8 @@ $\mathbb{R}$
 
 # Reelle Zahlen $\mathbb{R}$
 
-<v-clicks>
-
 - $\mathbb{R}$ abgeschlossen bezüglich $+$, $-$, $\cdot$, $:$
 - Keine Lösung für $x^2 + 1 = 0 \iff x^2 = -1$
-
-</v-clicks>
 
 ---
 layout: iframe
@@ -176,15 +172,11 @@ $$ x^2 = -1 $$
 layout: center
 ---
 
-<v-click>
-
 <div class="mb-56 text-6xl font-bold">
 
 Komplexe Zahlen $\mathbb{C}$
 
 </div>
-
-</v-click>
 
 <div class="fixed top-[50%] left-[50%] transform -translate-1/2 text-6xl">
 
